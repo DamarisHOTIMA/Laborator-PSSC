@@ -1,5 +1,6 @@
 namespace Workflow_LivrareComanda
 {
+    //in functie de valoarea primita in baza de date
     public class PachetOK
     {
 
